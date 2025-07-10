@@ -5,7 +5,7 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Trikode&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=Trikode&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=trikode&" alt="trikode" /></p>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=trikode&"  height="150" alt="trikode" />
 </div>
 
 ###
